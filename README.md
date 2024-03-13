@@ -3,5 +3,5 @@
 所以去编写了dll名及函数名转hash的函数
 # 参考资料
 https://nickharbour.wordpress.com/2010/07/01/writing-shellcode-with-a-c-compiler/
-https://github.com/rapid7/metasploit-framework/blob/master/external/source/shellcode/windows/x86/src/hash.py
 https://github.com/mattifestation/PIC_Bindshell/tree/master
+https://github.com/rapid7/metasploit-framework/blob/master/external/source/shellcode/windows/x86/src/hash.py
